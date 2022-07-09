@@ -24,6 +24,9 @@
     <Reference Include="UnityEngine">
       <HintPath>$(NeosPath)Neos_Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(NeosPath)Neos_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityNeos">
       <HintPath>$(NeosPath)Neos_Data/Managed/UnityNeos.dll</HintPath>
     </Reference>
